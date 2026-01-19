@@ -1,8 +1,8 @@
 {
-  "tipo_cliente": "enojado",
-  "nivel_paciencia": 2,
-  "objetivo_conversacion": "reclamo de factura",
-  "longitud_mensaje": "corto",
-  "tono": "agresivo",
-  "max_interacciones": 4
+  "tipo_cliente": "calmado",
+  "nivel_paciencia": 5,
+  "objetivo_conversacion": "consulta de servicio",
+  "longitud_mensaje": "medio",
+  "tono": "amable",
+  "max_interacciones": 5
 }
