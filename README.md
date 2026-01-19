@@ -17,3 +17,6 @@ Agente de inteligencia artificial que simula clientes humanos con comportamiento
 ## Ejecución
 ```bash
 python src/main.py
+
+## Video
+[Link al video]
