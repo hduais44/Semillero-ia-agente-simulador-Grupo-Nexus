@@ -1,0 +1,8 @@
+{
+  "tipo_cliente": "enojado",
+  "nivel_paciencia": 2,
+  "objetivo_conversacion": "reclamo de factura",
+  "longitud_mensaje": "corto",
+  "tono": "agresivo",
+  "max_interacciones": 4
+}
