@@ -1,4 +1,4 @@
-# Agente IA - Simulador de Clientes
+# Agente IA - Simulador de Clientes para Testing de Bots
 
 Agente simulador de clientes diseñado para **probar y validar bots de atención al cliente**, generando interacciones humanas realistas a partir de parámetros configurables como perfil, estado de ánimo, contexto e intención.
 
