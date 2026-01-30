@@ -125,7 +125,7 @@ https://youtu.be/EcOTv8V5On0
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 Semillero-ia-agente-simulador-Grupo-Nexus/
@@ -136,6 +136,9 @@ Semillero-ia-agente-simulador-Grupo-Nexus/
 │   └── config/
 |       └── RAG_soporte.json
 ├── docs/
-│   └── diagramas/ (opcional)
+│   └── diagramas/
+|       ├── casos_uso.svg
+|       └── secuencia_flujo.svg
 ├── tests/
+|   └── test_dummy.py
 └── .gitignore
