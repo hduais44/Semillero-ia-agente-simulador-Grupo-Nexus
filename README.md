@@ -66,8 +66,8 @@ Simular conversaciones humanas realistas para **evaluar el desempeño de bots de
 **Clonar repositorio**
 
 ```bash
-git clone https://github.com/tu-repositorio/agente-simulador.git
-cd agente-simulador
+git clone https://github.com/mariovicunaa/Semillero-ia-agente-simulador-Grupo-Nexus.git
+cd Semillero-ia-agente-simulador-Grupo-Nexus
 ```
 **Instalar dependencias** 
 
