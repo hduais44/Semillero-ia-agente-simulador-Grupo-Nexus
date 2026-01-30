@@ -61,6 +61,15 @@ Simular conversaciones humanas realistas para **evaluar el desempeño de bots de
 
 ---
 
+## API Keys
+
+Este proyecto utiliza modelos de lenguaje externos como Groq y Google Gemini.  
+Para su ejecución es necesario contar con una API Key válida del proveedor seleccionado.
+
+Por motivos de seguridad, las claves no se incluyen en el repositorio.  
+
+---
+
 ## Instalación
 
 **Clonar repositorio**
