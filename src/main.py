@@ -35,9 +35,10 @@ st.markdown("""
 
 # Función para cargar RAG
 def cargar_conocimiento():
-    carpeta = "config" 
+    carpeta_1 = "src"
+    carpeta_2 = "config" 
     archivo = "RAG_soporte.json"
-    ruta_completa = os.path.join(carpeta, archivo)
+    ruta_completa = os.path.join(carpeta_1, carpeta_2, archivo)
     try:
         with open(ruta_completa, 'r', encoding='utf-8') as f:
             return json.load(f), ruta_completa    
