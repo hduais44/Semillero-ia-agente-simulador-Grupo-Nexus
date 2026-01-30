@@ -75,8 +75,8 @@ Por motivos de seguridad, las claves no se incluyen en el repositorio.
 **Clonar repositorio**
 
 ```bash
-git clone https://github.com/mariovicunaa/Semillero-ia-agente-simulador-Grupo-Nexus.git
-cd Semillero-ia-agente-simulador-Grupo-Nexus
+git clone https://github.com/mariovicunaa/Semillero-IA-Agente-Simulador de-Clientes-Para-Probar-Bots-Grupo-Nexus.git
+cd Semillero-IA-Agente-Simulador de-Clientes-Para-Probar-Bots-Grupo-Nexus
 ```
 **Instalar dependencias** 
 
@@ -112,19 +112,19 @@ streamlit run src/main.py
 ## Tests
 
 El proyecto no incluye pruebas unitarias automatizadas debido a la naturaleza interactiva del sistema y al uso de modelos de lenguaje externos (LLM).
-La validación del correcto funcionamiento se realizó mediante **pruebas funcionales y simulaciones manuales**, verificando distintos perfiles de cliente, estados de ánimo y flujos de cierre de casos.
+La validación del correcto funcionamiento se realizó mediante pruebas funcionales y simulaciones manuales, verificando distintos perfiles de cliente, estados de ánimo y flujos de cierre de casos.
 
 ---
 
 ## Autores
 - Luis Antonio Garces Ordóñez  
-  GitHub: @hduais44
+  GitHub: [@hduais44](https://github.com/hduais44)
 
 - Mario Samuel Vicuña Aspiazu  
-  GitHub: @mariovicunaa
+  GitHub: [@mariovicunaa](https://github.com/mariovicunaa)
 
 - Jordan Josue Rodríguez Calderón  
-  GitHub: @jordanr06
+  GitHub: [@jordanr06](https://github.com/jordanr06)
 
 ---
 
