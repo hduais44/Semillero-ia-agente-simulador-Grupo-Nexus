@@ -1,5 +1,3 @@
-# Proyecto Agente Simulador de Clientes
-#Librerias a instalar
 streamlit
 langchain-groq
 langchain-google-genai
