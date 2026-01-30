@@ -109,13 +109,13 @@ La validación del correcto funcionamiento se realizó mediante **pruebas funcio
 
 ## Autores
 - Luis Antonio Garces Ordóñez  
-  GitHub: hduais44
+  GitHub: @hduais44
 
 - Mario Samuel Vicuña Aspiazu  
-  GitHub: mariovicunaa
+  GitHub: @mariovicunaa
 
 - Jordan Josue Rodríguez Calderón  
-  GitHub: 
+  GitHub: @jordanr06
 
 ---
 
